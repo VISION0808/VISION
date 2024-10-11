@@ -1,0 +1,25 @@
+@font-face {
+    font-family:harshit;
+    src: url(http://www.youtube.com);
+}
+body{
+    background-color: rgb(7, 7, 7);
+}
+html{
+    font-style: oblique;
+    font-size: medium;
+    animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+    color: azure ;
+    animation: infinite;
+}
+header{
+    animation: backwards;
+    margin-top: 100px;
+    image-orientation: inherit;
+}
+solidcolor{
+    content: icon;
+}
+style{
+    height: 1px;
+}
